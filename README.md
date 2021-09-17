@@ -15,3 +15,5 @@
 ![Top 10 Libraries for Android Developers in 2021](https://medium.datadriveninvestor.com/top-10-libraries-for-android-developers-in-2021-1e2e4c90ea5)
 
 ![Best App Ideas for Startups + Bonus Ideas to Make Money in 2021](https://javascript.plainenglish.io/45-best-app-ideas-for-startups-bonus-ideas-to-make-money-in-2021-5d200a59a6d0)
+
+![Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f)
