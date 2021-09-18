@@ -3,6 +3,12 @@
 ## Libraries
 ![Snap Time Picker](https://github.com/akexorcist/SnapTimePicker)
 
+
+# Widgets
+- ### Custom Dialog Box
+    - ![Show Alert Dialog With an Input Field (EditText) in Android Kotlin](https://handyopinion.com/show-alert-dialog-with-an-input-field-edittext-in-android-kotlin/)
+      - ![Make EditBox In Dialog](https://stackoverflow.com/questions/18799216/how-to-make-a-edittext-box-in-a-dialog)
+          
 ## Blog by Various Developer
 
 ![5 Tools To Speed Up Your App Development](https://medium.com/swlh/5-tools-to-speed-up-your-app-development-6979d0e49e34)
