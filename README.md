@@ -1,10 +1,10 @@
 # Android-Resource
 
-## Libraries
+# Libraries
 ![Snap Time Picker](https://github.com/akexorcist/SnapTimePicker)
 
 
-# Widgets
+# [Widgets](#Widgets)
 - ### Custom Dialog Box
     - ![Show Alert Dialog With an Input Field (EditText) in Android Kotlin](https://handyopinion.com/show-alert-dialog-with-an-input-field-edittext-in-android-kotlin/)
       - ![Make EditBox In Dialog](https://stackoverflow.com/questions/18799216/how-to-make-a-edittext-box-in-a-dialog)
@@ -28,3 +28,22 @@
 ![Best App Ideas for Startups + Bonus Ideas to Make Money in 2021](https://javascript.plainenglish.io/45-best-app-ideas-for-startups-bonus-ideas-to-make-money-in-2021-5d200a59a6d0)
 
 ![Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f)
+
+
+**[⬆ back to top](#Widgets)**
+
+## [Contributors](#Contributors)
+
+- [acuon](https://github.com/acuon)
+
+## [Backers](#Backers)
+
+Thank you to all our supporters! 🙏
+
+> \*Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
+
+<a href="https://www.buymeacoffee.com/kingbond470" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
+
+## [Contact Me](#ContactMe)
+
+If you have any questions, please feel free to contact me : [kingbond470#gmail.com](mailto:kingbond470@gmail.com "Welcome to contact me") 
