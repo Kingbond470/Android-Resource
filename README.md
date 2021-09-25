@@ -29,6 +29,10 @@
 * [Contributors](#Contributors)
 * [Contact Me](#ContactMe)
 
+## D
+## Database
+![Migrating DB Version](https://developer.android.com/training/data-storage/room/migrating-db-versions)
+![Understanding Migration With Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 ## L
 ## Libraries
 ![Snap Time Picker](https://github.com/akexorcist/SnapTimePicker)
