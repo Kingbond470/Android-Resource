@@ -29,6 +29,10 @@
 * [Contributors](#Contributors)
 * [Contact Me](#ContactMe)
 
+## A
+### API 
+ [REST API and GraphQl](https://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql)
+ 
 ## D
 ## Database
 - [Migrating DB Version](https://developer.android.com/training/data-storage/room/migrating-db-versions)
