@@ -33,6 +33,16 @@
 ## Database
 - ![Migrating DB Version](https://developer.android.com/training/data-storage/room/migrating-db-versions)
 - ![Understanding Migration With Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
+
+## G
+### GraphQL
+- ![GraphQL with Android](https://heartbeat.comet.ml/graphql-with-android-b44eb3812c3d)
+- ![GraphQL Queries, Mutations and Subscriptions](https://medium.com/software-insight/graphql-queries-mutations-and-subscriptions-286522b263d9)
+
+## J
+### JetPack Datastore
+- ![JetPack Data Store](https://medium.com/@mumedian6/using-android-jetpack-datastore-with-jetpack-compose-6184338cf9c0)
+
 ## L
 ## Libraries
 ![Snap Time Picker](https://github.com/akexorcist/SnapTimePicker)
