@@ -39,6 +39,10 @@
 - [Understanding Migration With Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 
 ## G
+### Gradle
+- [Gradle and AGP build API : Config your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262)
+- [Gradle and AGP build API : How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec)
+
 ### GraphQL
 - [GraphQL with Android](https://heartbeat.comet.ml/graphql-with-android-b44eb3812c3d)
 - [GraphQL Queries, Mutations and Subscriptions](https://medium.com/software-insight/graphql-queries-mutations-and-subscriptions-286522b263d9)
