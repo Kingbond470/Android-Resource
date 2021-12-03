@@ -30,8 +30,14 @@
 * [Contact Me](#ContactMe)
 
 ## A
+
+### Android Latest Release - 2021
+ [Paging, Gradle, AndroidX, Media3, Emoji2, CameraX, Accessibility, App Startup, WearOS, and more!](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f)
 ### API 
  [REST API and GraphQl](https://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql)
+ 
+### Architecture
+ [MVC vs MVP vs MVVM vs MVI - Choosing an Architecture for Android App](https://www.mobindustry.net/blog/mvc-vs-mvp-vs-mvvm-vs-mvi-choosing-an-architecture-for-android-app/)
  
 ## D
 ## Database
@@ -58,6 +64,7 @@
 ## T
 ### Time Complexity
 - [Time Complexity Collections](https://www.baeldung.com/java-collections-complexity)
+
 
 ## W
 ## [Widgets](#Widgets)
