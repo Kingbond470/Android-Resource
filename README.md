@@ -31,13 +31,16 @@
 
 ## A
 
+### Android RunTime
+- [How Dalvik and ART works](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5)
+
 ### Android Latest Release - 2021
- [Paging, Gradle, AndroidX, Media3, Emoji2, CameraX, Accessibility, App Startup, WearOS, and more!](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f)
+- [Paging, Gradle, AndroidX, Media3, Emoji2, CameraX, Accessibility, App Startup, WearOS, and more!](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f)
 ### API 
- [REST API and GraphQl](https://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql)
+- [REST API and GraphQl](https://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql)
  
 ### Architecture
- [MVC vs MVP vs MVVM vs MVI - Choosing an Architecture for Android App](https://www.mobindustry.net/blog/mvc-vs-mvp-vs-mvvm-vs-mvi-choosing-an-architecture-for-android-app/)
+- [MVC vs MVP vs MVVM vs MVI - Choosing an Architecture for Android App](https://www.mobindustry.net/blog/mvc-vs-mvp-vs-mvvm-vs-mvi-choosing-an-architecture-for-android-app/)
  
 ## D
 ## Database
@@ -50,6 +53,7 @@
 
 ## G
 ### Gradle
+- [CompileSDK vs TargetSDK](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8)
 - [Gradle and AGP build API : Config your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262)
 - [Gradle and AGP build API : How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec)
 
