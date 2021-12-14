@@ -44,6 +44,10 @@
 - [Migrating DB Version](https://developer.android.com/training/data-storage/room/migrating-db-versions)
 - [Understanding Migration With Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 
+## Dex
+- [From Code to Dex - A Compilation Journey](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a)
+- [Sky's the limit? No, 65K is limit](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71#.67a5fhsu1)
+
 ## G
 ### Gradle
 - [Gradle and AGP build API : Config your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262)
