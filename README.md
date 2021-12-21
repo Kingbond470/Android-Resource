@@ -42,6 +42,10 @@
 ### Architecture
 - [MVC vs MVP vs MVVM vs MVI - Choosing an Architecture for Android App](https://www.mobindustry.net/blog/mvc-vs-mvp-vs-mvvm-vs-mvi-choosing-an-architecture-for-android-app/)
  
+## C
+## Coroutines
+- [Coroutines: Back to Basics](https://blog.dunzo.com/coroutines-back-to-basics-9e9879121e04)
+
 ## D
 ## Database
 - [Migrating DB Version](https://developer.android.com/training/data-storage/room/migrating-db-versions)
@@ -56,6 +60,7 @@
 - [CompileSDK vs TargetSDK](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8)
 - [Gradle and AGP build API : Config your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262)
 - [Gradle and AGP build API : How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec)
+- [Reduced gradle build by 80%](https://proandroiddev.com/how-we-reduced-our-gradle-build-times-by-over-80-51f2b6d6b05b)
 
 ### GraphQL
 - [GraphQL with Android](https://heartbeat.comet.ml/graphql-with-android-b44eb3812c3d)
@@ -68,6 +73,11 @@
 ## L
 ## Libraries
 - [Snap Time Picker](https://github.com/akexorcist/SnapTimePicker)
+
+## P 
+## Productive
+- [Most Productive Android Studio](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
+- [Useful tools to use in every android project](https://medium.com/@joaoppedrosa/useful-tools-to-use-in-every-android-project-part-1-c71a18abe164)
 
 ## T
 ### Time Complexity
