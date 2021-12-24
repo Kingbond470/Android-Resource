@@ -79,6 +79,10 @@
 - [Most Productive Android Studio](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
 - [Useful tools to use in every android project](https://medium.com/@joaoppedrosa/useful-tools-to-use-in-every-android-project-part-1-c71a18abe164)
 
+## S
+### System Design
+- [System Design Interview Preparation](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
+
 ## T
 ### Time Complexity
 - [Time Complexity Collections](https://www.baeldung.com/java-collections-complexity)
