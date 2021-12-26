@@ -38,6 +38,7 @@
 - [Paging, Gradle, AndroidX, Media3, Emoji2, CameraX, Accessibility, App Startup, WearOS, and more!](https://medium.com/androiddevelopers/now-in-android-52-f5fbd751b35f)
 ### API 
 - [REST API and GraphQl](https://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql)
+- [REST and HTTP Notes - Github's Image](https://github.com/Kingbond470/Android-Practice/blob/main/HTTP%20and%20REST/Readme.md)
  
 ### Architecture
 - [MVC vs MVP vs MVVM vs MVI - Choosing an Architecture for Android App](https://www.mobindustry.net/blog/mvc-vs-mvp-vs-mvvm-vs-mvi-choosing-an-architecture-for-android-app/)
