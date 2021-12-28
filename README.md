@@ -52,6 +52,9 @@
 - [Migrating DB Version](https://developer.android.com/training/data-storage/room/migrating-db-versions)
 - [Understanding Migration With Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 
+## Design Pattern
+- [Design Pattern with Kotlin](https://mohamedismail001122.medium.com/design-patterns-in-android-with-kotlin-60336a83f5e0)
+
 ## Dex
 - [From Code to Dex - A Compilation Journey](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a)
 - [Sky's the limit? No, 65K is limit](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71#.67a5fhsu1)
@@ -80,6 +83,11 @@
 - [Most Productive Android Studio](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
 - [Useful tools to use in every android project](https://medium.com/@joaoppedrosa/useful-tools-to-use-in-every-android-project-part-1-c71a18abe164)
 
+## R
+## Retrofit
+- [Handle Retrofit Success and error response](https://shivamk345.medium.com/handle-retrofit-success-and-responses-like-a-pro-3f02a52323b0)
+- [Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f)
+
 ## S
 ### System Design
 - [System Design Interview Preparation](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
@@ -87,6 +95,8 @@
 ## T
 ### Time Complexity
 - [Time Complexity Collections](https://www.baeldung.com/java-collections-complexity)
+### Tools
+- [Android Dev Tools - To Help](https://myinnos.medium.com/android-dev-tools-become-a-master-with-these-tools-collaborate-better-53197f9d6f4f)
 
 
 ## W
@@ -113,7 +123,7 @@
 
 [Best App Ideas for Startups + Bonus Ideas to Make Money in 2021](https://javascript.plainenglish.io/45-best-app-ideas-for-startups-bonus-ideas-to-make-money-in-2021-5d200a59a6d0)
 
-[Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f)
+[Good Developer Lifestyle](https://medium.com/@justin.muench/how-a-good-developer-daily-routine-could-look-like-ff3ab1e566b8)
 
 
 **[⬆ back to top](#Widgets)**
