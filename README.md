@@ -31,6 +31,9 @@
 
 ## A
 
+### Android Developer Hiring Guide
+- [Android Developer Hiring Guide - Tips](https://itexus.medium.com/android-developer-hiring-guide-641b422789c)
+
 ### Android RunTime
 - [How Dalvik and ART works](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5)
 
@@ -54,6 +57,9 @@
 
 ## Design Pattern
 - [Design Pattern with Kotlin](https://mohamedismail001122.medium.com/design-patterns-in-android-with-kotlin-60336a83f5e0)
+
+## Debug
+- [Debug like a pro](https://medium.com/helpshift-engineering/debugging-like-a-pro-in-android-studio-8c6547825961)
 
 ## Dex
 - [From Code to Dex - A Compilation Journey](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a)
@@ -83,6 +89,9 @@
 - [Most Productive Android Studio](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
 - [Useful tools to use in every android project](https://medium.com/@joaoppedrosa/useful-tools-to-use-in-every-android-project-part-1-c71a18abe164)
 
+## Kotlin Android Project
+- [Kotlin NanoDegress Project Review](https://vtsen.medium.com/android-kotlin-developer-nanodegree-projects-review-dd215bba619d)
+
 ## R
 ## Retrofit
 - [Handle Retrofit Success and error response](https://shivamk345.medium.com/handle-retrofit-success-and-responses-like-a-pro-3f02a52323b0)
@@ -91,6 +100,10 @@
 ## S
 ### System Design
 - [System Design Interview Preparation](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
+
+## Screen
+- [Fit Android Application to every size of phone](https://roeikriger.medium.com/fit-your-android-app-to-every-screen-8cb52fe6d9f3)
+
 
 ## T
 ### Time Complexity
