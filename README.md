@@ -107,6 +107,7 @@
 
 ## Screen
 - [Fit Android Application to every size of phone](https://roeikriger.medium.com/fit-your-android-app-to-every-screen-8cb52fe6d9f3)
+- [How to set android layout to support all screen sizes](https://stackoverflow.com/questions/9476662/how-to-set-android-layout-to-support-all-screen-sizes)
 - [Scalable Android App Using Libraries Approach](https://kapilvij.medium.com/scalable-android-apps-focus-is-on-library-projects-765924974d00)
 
 
