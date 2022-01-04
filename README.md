@@ -111,6 +111,10 @@
 - [How to set android layout to support all screen sizes](https://stackoverflow.com/questions/9476662/how-to-set-android-layout-to-support-all-screen-sizes)
 - [Scalable Android App Using Libraries Approach](https://kapilvij.medium.com/scalable-android-apps-focus-is-on-library-projects-765924974d00)
 
+## Security
+- [ How to secure secrets key -1](https://blog.kotlin-academy.com/how-to-secure-secrets-in-android-android-security-01-a345e97c82be)
+- [ How to secure secrets key -2](https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4)
+
 
 ## T
 ### Time Complexity
