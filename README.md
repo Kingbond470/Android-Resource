@@ -65,12 +65,16 @@
 - [From Code to Dex - A Compilation Journey](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a)
 - [Sky's the limit? No, 65K is limit](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71#.67a5fhsu1)
 
+## Dynamic Programing
+- [Dynamic Programming is Simple](https://python.plainenglish.io/dynamic-programming-is-simple-1174aed46e4c)
+
 ## G
 ### Gradle
 - [CompileSDK vs TargetSDK](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8)
 - [Gradle and AGP build API : Config your build](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-configure-your-build-9a10db5b2262)
 - [Gradle and AGP build API : How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec)
 - [Reduced gradle build by 80%](https://proandroiddev.com/how-we-reduced-our-gradle-build-times-by-over-80-51f2b6d6b05b)
+- [Reducing the build time of BlaBlaCar’s Android app](https://medium.com/blablacar/reducing-the-build-time-of-blablacars-android-app-549774e3c0df)
 
 ### GraphQL
 - [GraphQL with Android](https://heartbeat.comet.ml/graphql-with-android-b44eb3812c3d)
@@ -94,6 +98,9 @@
 - [Most Productive Android Studio](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
 - [Useful tools to use in every android project](https://medium.com/@joaoppedrosa/useful-tools-to-use-in-every-android-project-part-1-c71a18abe164)
 
+## Playstore
+- [Make beautiful screen for google play store](https://proandroiddev.com/how-i-made-beautiful-screenshots-for-google-play-developer-experience-61ce108fa6b4)
+
 ## Kotlin Android Project
 - [Kotlin NanoDegress Project Review](https://vtsen.medium.com/android-kotlin-developer-nanodegree-projects-review-dd215bba619d)
 
@@ -106,6 +113,8 @@
 ### System Design
 - [System Design Basic](https://github.com/Kingbond470/Android-Practice/blob/main/AndroidResource/SystemDesign_Basic.pdf)
 - [System Design Interview Preparation](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
+- [Spotify System architecture](https://medium.com/interviewnoodle/spotify-system-architecture-6bb418db6084)
+- [Topics For Mobile System Design Interviews](https://proandroiddev.com/additional-topic-for-mobile-system-design-interviews-4c581cd93f0a)
 
 ## Screen
 - [Fit Android Application to every size of phone](https://roeikriger.medium.com/fit-your-android-app-to-every-screen-8cb52fe6d9f3)
@@ -121,6 +130,7 @@
 
 ## Testing
 - [Accessibility Scanner - To Test Using android application](https://www.youtube.com/watch?v=i1gMzQv0hWU)
+- [JUnit Testing in Android with Kotlin for Beginners | Hemcrest and Mockito](https://medium.com/nerd-for-tech/junit-testing-in-android-with-kotlin-for-beginners-hemcrest-and-mockito-b731a74abaea)
 
 ### Time Complexity
 - [Time Complexity Collections](https://www.baeldung.com/java-collections-complexity)
@@ -138,6 +148,8 @@
 
 [5 Tools To Speed Up Your App Development](https://medium.com/swlh/5-tools-to-speed-up-your-app-development-6979d0e49e34)
 
+[Develop a Video Streaming App: How Much Does It Cost You](https://javascript.plainenglish.io/develop-a-video-streaming-app-how-much-does-it-cost-you-c62b5303446)
+
 [6 Best Appium and Mobile Testing Courses for Android and iOS Developers](https://medium.com/javarevisited/6-best-appium-and-mobile-testing-courses-for-android-and-ios-developers-80f6cd51e375)
 
 [Room Auto Migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)
@@ -147,6 +159,8 @@
 [Best Mobile App Ideas for Successful Business in 2021](https://javascript.plainenglish.io/best-mobile-app-ideas-for-successful-business-in-2021-710c7efccd93)
 
 [Change Android Activity Status Bar Color like a Pro](https://muditsen.medium.com/change-android-activity-status-bar-color-like-a-pro-60639977cf1f)
+
+[Flipkart Interview | SDE-3](https://kanchan-pal.medium.com/flipkart-interview-android-sde-3-6f649c2292de)
 
 [Top 10 Libraries for Android Developers in 2021](https://medium.datadriveninvestor.com/top-10-libraries-for-android-developers-in-2021-1e2e4c90ea5)
 
