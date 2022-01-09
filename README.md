@@ -50,6 +50,9 @@
 ## Coroutines
 - [Coroutines: Back to Basics](https://blog.dunzo.com/coroutines-back-to-basics-9e9879121e04)
 
+## Class Diagram
+- [Create class diagram in android studio](https://medium.com/@saad_mahmud/how-to-create-class-diagram-on-android-studio-for-kotlin-98df339d3599)
+
 ## D
 ## Database
 - [Migrating DB Version](https://developer.android.com/training/data-storage/room/migrating-db-versions)
@@ -65,8 +68,13 @@
 - [From Code to Dex - A Compilation Journey](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a)
 - [Sky's the limit? No, 65K is limit](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71#.67a5fhsu1)
 
-## Dynamic Programing
+## DSA
+
+### Dynamic Programing
 - [Dynamic Programming is Simple](https://python.plainenglish.io/dynamic-programming-is-simple-1174aed46e4c)
+
+### Array and Strings
+- [DSA plan for Array and Strings](https://medium.com/swlh/oneyearcodingplan-big-o-arrays-and-strings-7f4f91247f82)
 
 ## G
 ### Gradle
@@ -115,6 +123,7 @@
 - [System Design Interview Preparation](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
 - [Spotify System architecture](https://medium.com/interviewnoodle/spotify-system-architecture-6bb418db6084)
 - [Topics For Mobile System Design Interviews](https://proandroiddev.com/additional-topic-for-mobile-system-design-interviews-4c581cd93f0a)
+- [System Desing -Caching](https://medium.com/geekculture/system-design-basics-caching-46b1614915f8)
 
 ## Screen
 - [Fit Android Application to every size of phone](https://roeikriger.medium.com/fit-your-android-app-to-every-screen-8cb52fe6d9f3)
