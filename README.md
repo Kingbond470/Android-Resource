@@ -119,6 +119,8 @@
 - [Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f)
 
 ## S
+
+- [Serializable vs Parcelable](https://medium.com/@sarahmaher_01/android-development-serializable-vs-parcelable-9712e877b8e8)
 ### System Design
 - [System Design Basic](https://github.com/Kingbond470/Android-Practice/blob/main/AndroidResource/SystemDesign_Basic.pdf)
 - [System Design Interview Preparation](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
