@@ -186,7 +186,18 @@
 
 ## [Contributors](#Contributors)
 
+✨ Hall Of Contributors
+
+Thanks goes to all these Wonderful People. Contributions of any kind are welcome!🚀
+
 - [acuon](https://github.com/acuon)
+
+Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in Contributing.md file for succesful PRs
+Spread the word!
+
+If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 😃
+
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback ❤!
 
 ## [Backers](#Backers)
 
