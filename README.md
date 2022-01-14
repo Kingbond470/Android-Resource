@@ -128,6 +128,7 @@
 - [Spotify System architecture](https://medium.com/interviewnoodle/spotify-system-architecture-6bb418db6084)
 - [Topics For Mobile System Design Interviews](https://proandroiddev.com/additional-topic-for-mobile-system-design-interviews-4c581cd93f0a)
 - [System Desing -Caching](https://medium.com/geekculture/system-design-basics-caching-46b1614915f8)
+- [System Design - Exercise file downloader library](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
 
 ## Screen
 - [Fit Android Application to every size of phone](https://roeikriger.medium.com/fit-your-android-app-to-every-screen-8cb52fe6d9f3)
