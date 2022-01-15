@@ -76,6 +76,9 @@
 ### Array and Strings
 - [DSA plan for Array and Strings](https://medium.com/swlh/oneyearcodingplan-big-o-arrays-and-strings-7f4f91247f82)
 
+### Recursion and Backtracking 
+- [Recursion and Backtracking notes with example, code](https://github.com/Kingbond470/Android-Practice/tree/main/RecursionAndBacktracking)
+
 ## G
 ### Gradle
 - [CompileSDK vs TargetSDK](https://proandroiddev.com/compilesdkversion-and-targetsdkversion-what-is-the-difference-b4227c663ba8)
