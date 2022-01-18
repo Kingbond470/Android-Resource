@@ -165,6 +165,8 @@
           
 ## Blog by Various Developer
 
+[Native to React Native to Flutter](https://zerodha.tech/blog/from-native-to-react-native-to-flutter/)
+
 [5 Tools To Speed Up Your App Development](https://medium.com/swlh/5-tools-to-speed-up-your-app-development-6979d0e49e34)
 
 [Develop a Video Streaming App: How Much Does It Cost You](https://javascript.plainenglish.io/develop-a-video-streaming-app-how-much-does-it-cost-you-c62b5303446)
