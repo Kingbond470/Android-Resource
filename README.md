@@ -91,6 +91,7 @@
 - [GraphQL with Android](https://heartbeat.comet.ml/graphql-with-android-b44eb3812c3d)
 - [GraphQL Queries, Mutations and Subscriptions](https://medium.com/software-insight/graphql-queries-mutations-and-subscriptions-286522b263d9)
 - [Generic tableview in android](https://dimovski-d.medium.com/android-generic-tableview-fully-customizable-library-for-presenting-data-168565ddd9ec)
+- [Implementing Glassmorphism](https://medium.com/sampingan-tech/implementing-glassmorphism-in-android-app-e73a2fd83b80)
 
 ## J
 ### JetPack Datastore
