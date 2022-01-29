@@ -111,6 +111,7 @@
 ## Productive
 - [Most Productive Android Studio](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
 - [Useful tools to use in every android project](https://medium.com/@joaoppedrosa/useful-tools-to-use-in-every-android-project-part-1-c71a18abe164)
+- [17 Killer web apps to increase the producitivity](https://madza.hashnode.dev/17-killer-web-apps-you-should-use-to-increase-productivity)
 
 ## Playstore
 - [Make beautiful screen for google play store](https://proandroiddev.com/how-i-made-beautiful-screenshots-for-google-play-developer-experience-61ce108fa6b4)
