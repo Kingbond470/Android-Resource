@@ -106,6 +106,7 @@
 - [Snap Time Picker](https://github.com/akexorcist/SnapTimePicker)
 - [Meesho Meshlytics - A single analytics aggregator to rule them all](https://tech.meesho.com/meet-meshlytics-a-single-analytics-aggregator-to-rule-them-all-53656e15f025)
 - [15 Best libraries to use in Android](https://auth0.com/blog/amp/android-development-15-libraries-you-should-be-using/)
+- [How to show the libray dependency tree in android studio](https://vtsen.hashnode.dev/how-to-show-library-dependency-tree-in-android-studio)
 
 ## P 
 ## Productive
