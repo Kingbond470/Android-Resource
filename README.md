@@ -108,11 +108,16 @@
 - [15 Best libraries to use in Android](https://auth0.com/blog/amp/android-development-15-libraries-you-should-be-using/)
 - [How to show the libray dependency tree in android studio](https://vtsen.hashnode.dev/how-to-show-library-dependency-tree-in-android-studio)
 
+## O
+## Operating System
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 ## P 
 ## Productive
 - [Most Productive Android Studio](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
 - [Useful tools to use in every android project](https://medium.com/@joaoppedrosa/useful-tools-to-use-in-every-android-project-part-1-c71a18abe164)
 - [17 Killer web apps to increase the producitivity](https://madza.hashnode.dev/17-killer-web-apps-you-should-use-to-increase-productivity)
+- [Best 15 Android Studio shortcuts and tips to boost your productivity](https://medium.com/wereprotein/use-android-studio-like-a-pro-best-coding-shortcuts-and-tips-ac94fb9efa80)
 
 ## Playstore
 - [Make beautiful screen for google play store](https://proandroiddev.com/how-i-made-beautiful-screenshots-for-google-play-developer-experience-61ce108fa6b4)
@@ -135,6 +140,7 @@
 - [Topics For Mobile System Design Interviews](https://proandroiddev.com/additional-topic-for-mobile-system-design-interviews-4c581cd93f0a)
 - [System Desing -Caching](https://medium.com/geekculture/system-design-basics-caching-46b1614915f8)
 - [System Design - Exercise file downloader library](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=bid_manipulation&utm_content=dynamic&utm_term=&utm_campaign=%5BCourse%5D+Bit+Manipulation&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=12577945673&hsa_grp=120129464112&hsa_ad=507682162072&hsa_src=g&hsa_tgt=dsa-1265146601474&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA6NOPBhCPARIsAHAy2zDYCajOSBZ4x8JM5jHJ1ibqt1P2ZRclCjGKUT3WaE0RgeSJaNd_yKkaAjn_EALw_wcB)
 
 ## Screen
 - [Fit Android Application to every size of phone](https://roeikriger.medium.com/fit-your-android-app-to-every-screen-8cb52fe6d9f3)
@@ -189,6 +195,10 @@
 [Top 10 Libraries for Android Developers in 2021](https://medium.datadriveninvestor.com/top-10-libraries-for-android-developers-in-2021-1e2e4c90ea5)
 
 [Best App Ideas for Startups + Bonus Ideas to Make Money in 2021](https://javascript.plainenglish.io/45-best-app-ideas-for-startups-bonus-ideas-to-make-money-in-2021-5d200a59a6d0)
+
+[How to be prepared for an Android Developer job interview and improve your skills](https://medium.com/@gokberk.yagci/how-to-be-prepared-for-an-android-developer-job-interview-and-improve-your-skills-cca302b68725)
+
+[I got back to DSA without stressing myself — Here is how it can be done while working a Full Time Job](https://medium.com/@chitransh.aang/i-got-back-to-dsa-without-stressing-myself-here-is-how-it-can-be-done-while-working-a-full-time-b17cab187f9f)
 
 [Good Developer Lifestyle](https://medium.com/@justin.muench/how-a-good-developer-daily-routine-could-look-like-ff3ab1e566b8)
 
