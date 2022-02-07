@@ -34,6 +34,7 @@
 ### Android Developer Hiring Guide
 - [Android Developer Hiring Guide - Tips](https://itexus.medium.com/android-developer-hiring-guide-641b422789c)
 
+
 ### Android RunTime
 - [How Dalvik and ART works](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5)
 
@@ -131,6 +132,10 @@
 - [Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f)
 
 ## S
+
+### Search
+
+- [Search](https://blog.google/products/search/how-ai-powers-great-search-results/)
 
 - [Serializable vs Parcelable](https://medium.com/@sarahmaher_01/android-development-serializable-vs-parcelable-9712e877b8e8)
 ### System Design
