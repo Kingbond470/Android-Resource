@@ -77,6 +77,9 @@
 ### Array and Strings
 - [DSA plan for Array and Strings](https://medium.com/swlh/oneyearcodingplan-big-o-arrays-and-strings-7f4f91247f82)
 
+### Linked List
+- [Linked List](https://github.com/Kingbond470/Android-Practice/blob/main/AndroidResource/LinkedListNotes.pdf)
+
 ### Recursion and Backtracking 
 - [Recursion and Backtracking notes with example, code](https://github.com/Kingbond470/Android-Practice/tree/main/RecursionAndBacktracking)
 
