@@ -174,6 +174,9 @@
 ### U
 - [Top UI Libraries](https://medium.com/adg-vit/top-android-ui-libraries-81471af69256)
 
+### V
+- [ViewStub](https://proandroiddev.com/viewstub-on-demand-inflate-view-or-inflate-lazily-layout-resource-e56b8c39398b)
+
 ## W
 ## [Widgets](#Widgets)
 - ### Custom Dialog Box
