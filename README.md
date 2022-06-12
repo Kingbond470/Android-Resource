@@ -33,6 +33,7 @@
 
 ### Android Developer Hiring Guide
 - [Android Developer Hiring Guide - Tips](https://itexus.medium.com/android-developer-hiring-guide-641b422789c)
+- [Android Development Difficult Guide](https://proandroiddev.com/all-the-things-were-doing-wrong-but-take-for-granted-a-retrospective-glance-at-android-ad7e942d09cf)
 
 
 ### Android RunTime
@@ -53,6 +54,9 @@
 
 ## Class Diagram
 - [Create class diagram in android studio](https://medium.com/@saad_mahmud/how-to-create-class-diagram-on-android-studio-for-kotlin-98df339d3599)
+
+## Clean Android
+- [Clean android studio](https://engineering.backmarket.com/put-your-android-studio-on-a-diet-fa4d364acb05)
 
 ## D
 ## Database
@@ -104,6 +108,7 @@
 ## K
 ### Kotlin
 - [Kotlin Interview CheatSheet](https://kapilvij.medium.com/scalable-android-apps-focus-is-on-library-projects-765924974d00?p=c62e7850ba73)
+- [Kotlin MultiPlatform ViewModel](https://link.medium.com/IpHZXSxnCqbz)
 
 ## L
 ## Libraries
@@ -111,6 +116,10 @@
 - [Meesho Meshlytics - A single analytics aggregator to rule them all](https://tech.meesho.com/meet-meshlytics-a-single-analytics-aggregator-to-rule-them-all-53656e15f025)
 - [15 Best libraries to use in Android](https://auth0.com/blog/amp/android-development-15-libraries-you-should-be-using/)
 - [How to show the libray dependency tree in android studio](https://vtsen.hashnode.dev/how-to-show-library-dependency-tree-in-android-studio)
+
+## M
+## Memory
+- [Out of Memory](https://blog.mindorks.com/practical-guide-to-solve-out-of-memory-error-in-android-application)
 
 ## O
 ## Operating System
