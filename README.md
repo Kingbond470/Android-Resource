@@ -232,6 +232,7 @@
 Thanks goes to all these Wonderful People. Contributions of any kind are welcome!🚀
 
 - [acuon](https://github.com/acuon)
+- [Umang](https://github.com/meeshoumang)
 
 Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in Contributing.md file for succesful PRs
 Spread the word!
