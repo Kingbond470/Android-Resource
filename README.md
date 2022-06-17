@@ -158,6 +158,15 @@
 - [System Desing -Caching](https://medium.com/geekculture/system-design-basics-caching-46b1614915f8)
 - [System Design - Exercise file downloader library](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=bid_manipulation&utm_content=dynamic&utm_term=&utm_campaign=%5BCourse%5D+Bit+Manipulation&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=12577945673&hsa_grp=120129464112&hsa_ad=507682162072&hsa_src=g&hsa_tgt=dsa-1265146601474&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA6NOPBhCPARIsAHAy2zDYCajOSBZ4x8JM5jHJ1ibqt1P2ZRclCjGKUT3WaE0RgeSJaNd_yKkaAjn_EALw_wcB)
+- [Low Level Design](https://github.com/sbvkrishna/low-level-design)
+- [Scalar Academy - System Design](https://github.com/naqushab/ScalerAcademy/tree/develop/Useful)
+- [Low level Design Implementation](https://github.com/imk13/low-level-design)
+- [System Design Introduction](https://github.com/sanyathisside/System-Design)
+- [Chess - low level system design](https://github.com/anomaly2104/chess-low-level-system-design)
+- [Low level -Machine Coding Question](https://github.com/kumaransg/LLD)
+- [Low level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
+- [SDE Interview Experience- Low level system](https://github.com/imkgarg/Awesome-Software-Engineering-Interview)
+- [Cache Low level](https://github.com/anomaly2104/cache-low-level-system-design)
 
 ## Screen
 - [Fit Android Application to every size of phone](https://roeikriger.medium.com/fit-your-android-app-to-every-screen-8cb52fe6d9f3)
