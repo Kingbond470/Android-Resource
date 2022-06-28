@@ -47,6 +47,10 @@
  
 ### Architecture
 - [MVC vs MVP vs MVVM vs MVI - Choosing an Architecture for Android App](https://www.mobindustry.net/blog/mvc-vs-mvp-vs-mvvm-vs-mvi-choosing-an-architecture-for-android-app/)
+
+### Amazon Hiring 
+- [Interview Prep For Amazon](https://www.amazon.jobs/en/software-development-interview-prep?cmpid=ECOTOT700005B#/)
+- [DSA Prep for Amazon](https://www.youtube.com/watch?v=aOu7BaKgnMc)
  
 ## C
 ## Coroutines
@@ -74,6 +78,15 @@
 - [Sky's the limit? No, 65K is limit](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71#.67a5fhsu1)
 
 ## DSA
+
+### Platform to practice 
+-  [Leetcode](https://leetcode.com/)
+-  [GeeksforGeeks](https://practice.geeksforgeeks.org/)
+-  [InterviewBit](https://www.interviewbit.com/)
+-  [Binary Search](https://binarysearch.com/)
+-  [Hackerrank](https://www.hackerrank.com/)
+-  [HackerEarth](https://www.hackerearth.com/)
+-  [CodeChef](https://www.codechef.com/)
 
 ### Dynamic Programing
 - [Dynamic Programming is Simple](https://python.plainenglish.io/dynamic-programming-is-simple-1174aed46e4c)
